@@ -11,3 +11,4 @@ repos:
     hooks:
       - id: detect-secrets
         args: ['--baseline', '.secrets.baseline']
+        exclude: ^hash_manifest\.json$
