@@ -1,0 +1,17 @@
+metric,value
+channel_R_mean,129.1
+channel_R_std,68.2
+channel_R_min,0
+channel_R_max,255
+channel_G_mean,124.0
+channel_G_std,65.3
+channel_G_min,0
+channel_G_max,255
+channel_B_mean,112.6
+channel_B_std,70.4
+channel_B_min,0
+channel_B_max,255
+class_count,100
+train_per_class,100
+test_per_class,100
+subset_size,10000
