@@ -3,3 +3,5 @@ mlruns/
 __pycache__/
 *.pyc
 *.bin
+mlflow.db
+mlflow.db-journal
