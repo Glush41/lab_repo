@@ -1,0 +1,11 @@
+data_root: ./data
+subset_per_class: 100
+mode: stream
+batch_size: 125
+epochs: 10
+seed: 42
+lr: 0.001
+weight_decay: 0.0001
+early_stop_patience: 3
+num_workers: 0
+device: cpu

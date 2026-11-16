@@ -5,3 +5,4 @@ __pycache__/
 *.bin
 mlflow.db
 mlflow.db-journal
+dl_model.pt
